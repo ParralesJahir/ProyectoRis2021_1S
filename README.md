@@ -1,3 +1,4 @@
+PROYECTO REDES INALAMBRICAS Y SENSORES
 
     Cadena Montero Ruberth
     Larreategui Ulloa Allison
@@ -13,3 +14,6 @@ la comunicacion entre microcontroladores (Raspberry Pi4 y Atmega328p).
 Adiconal, mediante una Raspberry Pi4, se envia tramas hacia el Atmega328p con el fin de encender leds en distintos colores: rojo, azul y verde. 
 Tambien envia tramas para abrir y cerrar las puertas de un garaje mediante un servo motor. Se adjunta un archivo .aia, el cual corresponde a una pequeña aplicación 
 creada en APP INVENTOR, con el fin de controlar los leds, el garaje y visualizar la camara instalada.
+
+Como recomendacion final, al ejecutar las simulaciones en Proteus y hacer uso de la aplicacion cambiar la direccion ipv4 del proyecto.aia con fin de estableces conexion
+con los microcontroladores.
